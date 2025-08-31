@@ -33,24 +33,8 @@ Turning ideas into interactive experiences ✨
 
 ---
 
-## ⏱️ WakaTime Stats
-<!--START_SECTION:waka-->
-![Code Time](https://img.shields.io/badge/Code%20Time-500%20hrs-blue)  
-
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Numonov01&theme=radical&layout=compact)  
-<!--END_SECTION:waka-->
-
----
-
-## 📌 Pinned Repositories
-| Project | Tech Stack |
-|---------|------------|
-| [Siem-Front](https://github.com/Numonov01/Siem-Front) | TypeScript |
-| [OnlineBooks](https://github.com/Numonov01/OnlineBooks) | JavaScript |
-| [Ombor](https://github.com/Numonov01/Ombor) | — |
-| [LMS](https://github.com/Numonov01/LMS) | HTML |
-| [faceId](https://github.com/Numonov01/faceId) | JavaScript |
-| [world-weather](https://github.com/Numonov01/world-weather) | JavaScript |
+## 🐍 Snake Game Contribution
+![snake gif](https://raw.githubusercontent.com/Numonov01/Numonov01/output/snake.svg)
 
 ---
 
