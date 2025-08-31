@@ -1,4 +1,4 @@
-# Hi 👋, I'm Salimov Sardor
+# Hi 👋, I'm Numonov Tohir
 
 🚀 **Frontend Developer from Uzbekistan uz**  
 Turning ideas into interactive experiences ✨  
