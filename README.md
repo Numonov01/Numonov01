@@ -7,13 +7,9 @@ Turning ideas into interactive experiences ✨
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Numonov01&label=Profile%20views&color=0e75b6&style=flat)
 
----
-
 ## 🌐 Connect with me
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=white)](https://t.me/tokhir_uz)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/altron_0109)
-
----
 
 ## ⚒️ Languages and Tools
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
@@ -24,16 +20,12 @@ Turning ideas into interactive experiences ✨
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge)
 
----
-
 ## 📊 GitHub Stats
 ![Numonov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Numonov01&show_icons=true&theme=radical)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Numonov01&layout=compact&theme=radical)  
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Numonov01&theme=radical&hide_border=false)  
-
----
 
 ✨ Always learning and improving 🚀  
 
