@@ -1,7 +1,7 @@
 # Hi 👋, I'm Numonov Tohir
 
 🚀 **Frontend Developer from Uzbekistan uz**  
-Turning ideas into interactive experiences ✨
+Turning ideas into interactive experiences ✨  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Numonov01&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -25,15 +25,24 @@ Turning ideas into interactive experiences ✨
 ---
 
 ## 📊 GitHub Stats
-![Numonov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Numonov01&show_icons=true&theme=radical)
+![Numonov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Numonov01&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Numonov01&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Numonov01&layout=compact&theme=radical)  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Numonov01&theme=radical&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Numonov01&theme=radical&hide_border=false)  
 
 ---
 
-##  Pinned Repositories
+## ⏱️ WakaTime Stats
+<!--START_SECTION:waka-->
+![Code Time](https://img.shields.io/badge/Code%20Time-500%20hrs-blue)  
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Numonov01&theme=radical&layout=compact)  
+<!--END_SECTION:waka-->
+
+---
+
+## 📌 Pinned Repositories
 | Project | Tech Stack |
 |---------|------------|
 | [Siem-Front](https://github.com/Numonov01/Siem-Front) | TypeScript |
@@ -45,4 +54,4 @@ Turning ideas into interactive experiences ✨
 
 ---
 
-✨ Always learning and improving
+✨ Always learning and improving 🚀
