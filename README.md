@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi 👋, I'm Numonov Tohir
 
 🚀 **Frontend Developer from Uzbekistan uz**  
@@ -33,9 +35,6 @@ Turning ideas into interactive experiences ✨
 
 ---
 
-## 🐍 Snake Game Contribution
-![snake gif](https://raw.githubusercontent.com/Numonov01/Numonov01/output/snake.svg)
+✨ Always learning and improving 🚀  
 
----
-
-✨ Always learning and improving 🚀
+</div>
