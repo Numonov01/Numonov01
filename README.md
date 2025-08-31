@@ -1,16 +1,15 @@
 # Hi 👋, I'm Numonov Tohir
 
 🚀 **Frontend Developer from Uzbekistan uz**  
-Turning ideas into interactive experiences ✨  
+Turning ideas into interactive experiences ✨
 
-![Profile Views](https://komarev.com/ghpvc/?username=salimovone&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Numonov01&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
 ## 🌐 Connect with me
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/)  
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=white)](https://t.me/tokhir_uz)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/altron_0109)
 
 ---
 
@@ -28,11 +27,24 @@ Turning ideas into interactive experiences ✨
 ---
 
 ## 📊 GitHub Stats
-![Sardor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salimovone&show_icons=true&theme=radical)  
+![Numonov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Numonov01&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salimovone&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Numonov01&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=salimovone&theme=radical&hide_border=false)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Numonov01&theme=radical&hide_border=false)
 
 ---
-✨ Always learning and improving 🚀
+
+##  Pinned Repositories
+| Project | Tech Stack |
+|---------|------------|
+| [Siem-Front](https://github.com/Numonov01/Siem-Front) | TypeScript |
+| [OnlineBooks](https://github.com/Numonov01/OnlineBooks) | JavaScript |
+| [Ombor](https://github.com/Numonov01/Ombor) | — |
+| [LMS](https://github.com/Numonov01/LMS) | HTML |
+| [faceId](https://github.com/Numonov01/faceId) | JavaScript |
+| [world-weather](https://github.com/Numonov01/world-weather) | JavaScript |
+
+---
+
+✨ Always learning and improving
